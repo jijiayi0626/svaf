@@ -70,7 +70,7 @@ export const siteConfig = {
     natTool: 'https://github.com/afoim/webrtc_check_nat'
   },
   forum: {
-    totpIssuer: 'AcoFork Forum'
+    totpIssuer: 'XiaoYiY Forum'
   },
   links: {
     github: 'https://github.com/jijiayi0626/svaf'
@@ -81,7 +81,7 @@ export const siteConfig = {
     { label: '课程表', icon: 'mdi:calendar-month', href: '/timetable' },
     { label: '友链', icon: 'mdi:link-variant', href: '/friends' },
     { label: '赞助', icon: 'mdi:heart', href: '/sponsors' },
-    { label: '统计', icon: 'mdi:chart-line', href: 'https://umami.2x.nz/share/CdkXbGgZr6ECKOyK' }
+    { label: '统计', icon: 'mdi:chart-line', href: 'https://cloud.umami.is/share/WSZV4vjm9GQ1GM2A' }
   ] as const
 };
 
