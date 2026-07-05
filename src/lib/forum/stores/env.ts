@@ -7,7 +7,7 @@ export const FORUM_API_ENV_STORAGE_KEY = 'forum-api-env';
 export const FORUM_API_CUSTOM_BASE_URL_STORAGE_KEY = 'forum-api-custom-base-url';
 
 export const FORUM_API_BASE_URLS: Record<ForumApiEnv, string> = {
-  prod: 'https://i.2x.nz',
+  prod: 'https://i.xiaoyiy626.dpdns.org',
   dev: 'http://127.0.0.1:8787'
 };
 
